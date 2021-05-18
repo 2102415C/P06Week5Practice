@@ -34,6 +34,6 @@ public class BankAccount {
     {
         return this.balance;
     }
-    public String getName()
+    public String getName() { this.name;}
 }
 
